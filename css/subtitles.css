@@ -20,9 +20,9 @@ div#subtitle {
     font-family: "San Francisco",
         "Helvetica Neue", "Helvetica",
         Arial, Sans-Serif;
-    font-size: calc( 10vh + 10vw );
+    font-size: calc( 7vh + 7vw );
     font-weight: 200;
-    line-height: calc( 4vh + 3vw );
+    line-height: calc( 8vh + 8vw );
     color: #000000;
     text-shadow: 3px 1px 4px #222;
     display: flex;
