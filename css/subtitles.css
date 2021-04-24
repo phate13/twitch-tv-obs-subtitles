@@ -22,7 +22,7 @@ div#subtitle {
         Arial, Sans-Serif;
     font-size: calc( 5vh + 5vw );
     font-weight: 200;
-    line-height: calc( 7vh + 7vw );
+    line-height: calc( 6vh + 6vw );
     color: #000000;
     text-shadow: 3px 1px 4px #222;
     display: flex;
